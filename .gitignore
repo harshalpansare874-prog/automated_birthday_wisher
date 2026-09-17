@@ -1,0 +1,6 @@
+birthdays.csv
+.env
+.idea/
+__pycache__/
+*.pyc
+.env
